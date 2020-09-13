@@ -11,7 +11,7 @@ jobs:
 
         with:
           message: |
-            **Thanks for this code contribution!!** 🌏
+            **Thanks for this code contribution!! YESS** 🌏
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           repo-token-user-login: 'github-actions[bot]' # The user.login for temporary GitHub tokens
           allow-repeats: false # This is the default
